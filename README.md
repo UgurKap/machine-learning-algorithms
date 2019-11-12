@@ -1,6 +1,6 @@
 # Machine Learning Algorithm Implementations
 
-This repository includes my implementations of various machine learning and related algorithms using Python.  
+This repository includes my implementations of various machine learning and related algorithms in Python.  
 
 1. innerproduct.py => Includes a vectorized implementation of inner product
 2. l2distance.py => Finds euclidian distance between rows of two matrices in a vectorized manner
